@@ -23,6 +23,4 @@
 
 ---
 
-## 此仓库仅为引流，详情请看(BDBot)[https://github.com/baofengqwq/BDBot]
-
-
+## 此仓库仅为引流，详情请看[BDBot](https://github.com/baofengqwq/BDBot)
